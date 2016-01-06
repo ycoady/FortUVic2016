@@ -8,4 +8,4 @@
 
 Date     | Topics                 | Homework  
 :------:| ---------------------- | --------- 
-[Jan 6] (http://slides.com/ycoady/utw1#/)  | Course [info] (http://webhome.cs.uvic.ca/~ycoady/utw/), Light reading on [Untangling the Web](http://www.governmentattic.org/8docs/UntanglingTheWeb-NSA_2007.pdf) (just an FYI!), [course overview] (http://slides.com/ycoady/utw1/live#/) and [preliminary landscape] (http://slides.com/ycoady/sketching-the-landscape/live#/)!  | (1) Course survey (2) post comments for the questions on Moodle, and (3) sketch landscape diagram! 
+[Jan 6] (http://slides.com/ycoady/utw1#/)  | Light reading on [Untangling the Web](http://www.governmentattic.org/8docs/UntanglingTheWeb-NSA_2007.pdf) (just an FYI!),  [preliminary landscape] (http://slides.com/ycoady/sketching-the-landscape/live#/)!  | (1) Course survey (2) post comments for the questions on CourseSpaces, and (3) sketch your own landscape diagram! 
