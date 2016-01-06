@@ -1,6 +1,6 @@
-# FortUVic2016
+# FortUVic2016!
 
-# CSc 101 Untangling the Web: Analyzing and Architecting Digital Solutions 
+## Untangling the Web: Analyzing and Architecting Digital Solutions 
 ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Geography_of_Twitter_%40replies_%286238509140%29.jpg)
 
 > By Eric Fischer (Geography of Twitter @replies) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
