@@ -1,0 +1,48 @@
+<html>
+ <head>
+	<script>
+
+	// We start off with 4 great quotes!!!
+	  var quotes = [
+  		{ author : 'Audrey Hepburn', text : "Nothing is impossible, the word itself says 'I'm possible'!"},
+  		{ author : 'Walt Disney', text : "You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you"},
+  		{ author : 'Unknown', text : "Even the greatest was once a beginner. Don't be afraid to take that first step."},
+  		{ author : 'Neale Donald Walsch', text : "You are afraid to die, and you're afraid to live. What a way to exist."}
+	  ];
+
+	  // what does this function do?  when is it called?
+	  function runMe() {
+	  	var myStuff = "";
+	  	for (var i=0; i < quotes.length; i++ )
+	  		myStuff += "<br>"+ quotes[i].author +": " + quotes[i].text + "<br>";
+	  	document.getElementById('here').innerHTML = myStuff;
+	  }
+	
+	  // what does this function do?  when is it called?
+	  function addMe(who, what) {
+		var newQuote = {
+	    	author : who.value,
+    		text : what.value
+  		};
+	  	quotes.push(newQuote);
+	  	runMe();
+	  }
+	</script>
+ </head> 
+ 
+ <body onload="runMe();">
+
+	<h2>Hello World!</h2>
+	
+	<div id= "here"> </div> 
+
+	<p>These are our deep thoughts for the day... Would you like to add to that? </p>
+
+	<form id="form" onsubmit="return false;">
+    	<input type="text" id="who" />
+    	<input type="text" id="what" />
+    	<input type="submit" onclick="addMe(who, what);" />
+	</form>
+
+  </body>
+</html>
