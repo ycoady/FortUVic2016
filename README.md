@@ -17,4 +17,6 @@ Date     | Topics                 | Homework
 [Feb 24] (http://slides.com/ycoady/talking-to-aliens/live#/)  |  Talking to Aliens!  Learning to program with JavaScript | (1) Expand the Front-End examples of the Leaflet and Quotes .html files here in our repo in some interesting ways!  (2) share your new mixes on the forums in CourseSpaces (can post links to your own repos!) :)
 [Mar 2] (http://slides.com/ycoady/doms-and-dashboards/live#)  |  From DOMs to Dashboards | (1) Prepare to pitch some fancy front end fun to special guests on Mar 9!  (2) Post yours to the forum on course spaces, and comment on 3 others! :)
 [Mar 9] (http://slides.com/ycoady/backend_story/live#)  |  Pitching for the City!  Going deep into the full stack: Back ends! | (1) Make sure your pitches and critiques are posted from last week!  (2) Compare/Contrast 2 [front-end](http://todomvc.com/) and 2 [back-end](http://www.todobackend.com/) TODOs on the forums :)
+[Mar 16] (https://slides.com/ycoady/ourfriendjson/live#)  |  GitHub, JSON and Servers, OMY! | (1) Provide a link to your GitHub repo  (2) Provide a link to your *deployment* on BlueMix
 
+#OUR LINKS ARE HERE! (post below this line)
