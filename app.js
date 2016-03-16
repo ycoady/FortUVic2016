@@ -8,11 +8,17 @@
 // for more info, see: http://expressjs.com
 var express = require('express');
 
-
 var bodyParser = require('body-parser');
 
 // create a new express server
 var app = express();
+
+//var busboy = require('connect-busboy'); //middleware for form/file upload
+//var path = require('path');     //used for file path
+//var fs = require('fs-extra');       //File System - for file manipulation
+
+//app.use(busboy());
+//app.use(express.static(path.join(__dirname, 'public')));
 
 
 app.use(bodyParser.json());
@@ -27,7 +33,7 @@ var quotes = [
 ];
 
 var myPage =
-'<!DOCTYPE html><html><body><h1>Hello! WELCOME to your FULL STACK!!!!!</h1><form action="http://node-js-133758.nitrousapp.com:3000/quote" method="post"> <input type="text" name="author" value="Mickey" /> <input type="text" name="text" value="Mickey" />  <input type="submit" /></form></body></html>';
+'<!DOCTYPE html><html><body><h1>Hello! WELCOME to your FULL STACK!!!!!</h1><form action="https://ourquotes.mybluemix.net/quote" method="post"> <input type="text" name="author" value="Mickey" /> <input type="text" name="text" value="Mickey" />  <input type="submit" /></form></body></html>';
 
 app.get('/', function(req, res) {
   console.log("==> / GET");
@@ -75,6 +81,20 @@ app.post('/quote', function(req, res) {
   res.json(req.body);
 });
 
+/*
+app.post("/upload", function(req, res) {
+    if(req.busboy) {
+        req.busboy.on("file", function(fieldName, fileStream, fileName, encoding, mimeType) {
+            //Handle file stream here
+            console.log("made it here!");
+        });
+        return req.pipe(req.busboy);
+    }
+    //Something went wrong -- busboy was not loaded
+});
+*/
+ 
+
 // start server on the specified port and binding host
 app.listen(process.env.VCAP_APP_PORT || 8080, '0.0.0.0', function() {
 
@@ -82,6 +102,3 @@ app.listen(process.env.VCAP_APP_PORT || 8080, '0.0.0.0', function() {
   console.log("server starting on " + process.env.url);
 });
 
-
-//now just sit, listen, and respond!!!!
-//app.listen(process.env.PORT || 3000);
