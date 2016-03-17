@@ -20,3 +20,5 @@ Date     | Topics                 | Homework
 [Mar 16] (https://slides.com/ycoady/ourfriendjson/live#)  |  GitHub, JSON and Servers, OMY! | (1) Provide a link to your GitHub repo  (2) Provide a link to your *deployment* on BlueMix
 
 #OUR LINKS ARE HERE! (post below this line)  MAKE YOUR PULL REQUEST HERE!!!!
+
+[Mar 16 - Cort] (https://github.com/ZeonZone/hello-world/blob/master/README.md)  |  READ MY README! | (1) Provide a link to your GitHub repo (this is it!)  (2) Why did the cowbow buy a weiner dog? Because he was told to "git'along little doggie!"
