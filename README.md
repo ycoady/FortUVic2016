@@ -24,3 +24,5 @@ This edit is vital to the project.
 So is this one.
 I could use a taco
 I hope this Works Kevin 
+This is my attemp to do a pull request.  Joan
+Guess what I'm doing again.  yep, another practice run on putting some irrelevant information on here.  Not sure if I'm doing it correctly or not but my motto of Live and Learn is coming into play here.  Oh Happy Days.  Joan
