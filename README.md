@@ -18,6 +18,7 @@ Date     | Topics                 | Homework
 [Mar 2] (http://slides.com/ycoady/doms-and-dashboards/live#)  |  From DOMs to Dashboards | (1) Prepare to pitch some fancy front end fun to special guests on Mar 9!  (2) Post yours to the forum on course spaces, and comment on 3 others! :)
 [Mar 9] (http://slides.com/ycoady/backend_story/live#)  |  Pitching for the City!  Going deep into the full stack: Back ends! | (1) Make sure your pitches and critiques are posted from last week!  (2) Compare/Contrast 2 [front-end](http://todomvc.com/) and 2 [back-end](http://www.todobackend.com/) TODOs on the forums :)
 [Mar 16] (https://slides.com/ycoady/ourfriendjson/live#)  |  GitHub, JSON and Servers, OMY! | (1) Provide a link to your GitHub repo  (2) Provide a link to your *deployment* on BlueMix
+[Mar 23] (http://slides.com/ycoady/ourfriendjson-24/live#/)  |  Back-end Brilliance!! | (1) Post your final project's MVP!
 
 #OUR LINKS ARE HERE! (post below this line)  MAKE YOUR PULL REQUEST HERE!!!!
 This edit is vital to the project.
